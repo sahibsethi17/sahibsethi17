@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Yash Sethi. Currently a CS Senior at The University of Toronto. I love learning new things in relation to software development and machine learning. Coming from the software and AI background, I love to apply this knowledge to my own personal projects, as well as contribute to open-source projects. I hope to apply this knowledge to a rewarding job role in the near future. Fun Fact: I love going to the gym, playing football (American), and playing the piano & classical guitar.
+My name is Yash Sethi. Currently a CS Student at The University of Toronto. I love learning new things in relation to software development and machine learning. Coming from the software and AI background, I love to apply this knowledge to my own personal projects, as well as contribute to open-source projects. I hope to apply this knowledge to a rewarding job role in the near future. Fun Fact: I love going to the gym, playing football (American), and playing the piano & classical guitar.
